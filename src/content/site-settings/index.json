@@ -43,5 +43,9 @@
     "enabled": false,
     "title": "Site under maintenance",
     "subtitle": "Please reload page shortly"
+  },
+  "siteMetadata": {
+    "title": "Linux Foundation 2025 Event",
+    "description": "This is the event site for the 2025 Event for the Linux Foundation"
   }
 }
