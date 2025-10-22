@@ -28,7 +28,7 @@
   },
   "countdown": {
     "display": true,
-    "text": "Event Kickoff"
+    "text": "Event Kickoff in..."
   },
   "widgets": {
     "schedule": {
@@ -83,7 +83,7 @@
         "size": 2,
         "images": [
           {
-            "src": "tier1-default-space4.png"
+            "src": "yoco-sponsor-ads-large-mobility-vert-new.png"
           }
         ]
       }
