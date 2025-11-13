@@ -5,6 +5,13 @@
       "providerLabel": "Continue with FNid",
       "providerLogo": "logo_fn.svg",
       "providerLogoSize": 27
+    },
+    {
+      "providerLogoSize": 20,
+      "buttonColor": "#000000",
+      "providerLabel": "Linux Foundation ID",
+      "providerParam": "lfid",
+      "providerLogo": "lfid.jpg"
     }
   ],
   "widgets": {
